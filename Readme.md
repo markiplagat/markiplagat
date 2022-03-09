@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **TDD & Rspec.**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -18,8 +18,11 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/ruby-programming-language.png"/> </a>
+<p align="left">
+    <a href="https://flutter.dev/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+    </a>
+    <a href="https://www.ruby-lang.org/en/" target="_blank"><img  src="https://img.icons8.com/color/50/000000/ruby-programming-language.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://rubyonrails.org/" target="_blank"> <img src="https://img.icons8.com/windows/64/fa314a/ruby-on-rails.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
