@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **RSpec**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
