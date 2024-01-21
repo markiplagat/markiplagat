@@ -1,22 +1,25 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Mark 👋
 
-I'm a [Your Profession/Interests] based in [Your Location]. 
+I'm a Software Engineer based in Nairobi, Kenya. 
 
 🚀 **Skills:**
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+- Ruby
+- Rails
+- JavaScript
+- React
+- NextJs
+
 
 🌱 **Currently learning:**
-- [Technology/Tool]
+- Devops
 
 📫 **How to reach me:**
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
+- [LinkedIn](https://www.linkedin.com/in/mark-rutto-a82078187/)
+- [Twitter](https://twitter.com/MarkRutto4)
 
-⚡ **Fun fact:**
-[Interesting fact about yourself]
+⚡ **Fun fact**
+I like new challenges.
 
 Check out my projects below and feel free to connect!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)](https://github.com/YourGitHubUsername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markiplagat&show_icons=true&count_private=true)](https://github.com/markiplagat)
